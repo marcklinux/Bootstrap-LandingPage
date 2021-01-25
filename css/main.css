@@ -1,0 +1,20 @@
+.navbar {
+    box-shadow: 2px 2px 5px #000;
+    opacity: .9;
+
+}
+
+.navbar .nav-item .nav-link {
+    color: #fff;
+
+}
+
+.main-header {
+    background: url(../img/background.jpg);
+    background-size: cover;
+    min-height: 500px;
+}
+
+.background-overlay {
+    background: rgba(48, 51, 107, .7);
+}
